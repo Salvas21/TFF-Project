@@ -6,15 +6,15 @@ L'application mobile permet de faire des voyages de pêche, et lorsque connecter
 
 ## Media(s)
 ### Login
-![login]('images-readme/login.png')
+![login](images-readme/login.png)
 ### Map
-![map]('images-readme/map.png')
+![map](images-readme/map.png)
 ### Les données météorologiques
-![data]('images-readme/data.png')
+![data](images-readme/data.png)
 ### Statistiques de pêche
-![stats]('images-readme/stats.png')
+![stats](images-readme/stats.png)
 ### Sauvegarder une capture
-![save]('images-readme/save.png')
+![save](images-readme/save.png)
 
 ## Technologies
 - iOS / Xcode / Swift / SwiftUI
