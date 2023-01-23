@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "9e0328127dfb801cefe8ac53a13c0c90a7770448",
+          "version": "5.4.0"
+        }
+      },
+      {
+        "package": "Time",
+        "repositoryURL": "https://github.com/davedelong/time",
+        "state": {
+          "branch": null,
+          "revision": "d8a3557205a895bb130a17148517c9f9f7136b5f",
+          "version": "0.9.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
