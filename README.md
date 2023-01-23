@@ -18,5 +18,7 @@ L'application mobile permet de faire des voyages de pêche, et lorsque connecter
 
 ## Technologies
 - iOS / Xcode / Swift / SwiftUI
-- Arduino 
+- Arduino
+- Appels API REST PHP
+- Base de données Relationnelle
 
